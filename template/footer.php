@@ -1,5 +1,5 @@
 <footer>
-    <p> GOR &copy; 2024</p>
+    <p>GOR &copy; <?= date("Y"); ?></p>
 </footer>
 </body>
 
